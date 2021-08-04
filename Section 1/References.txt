@@ -1,0 +1,36 @@
+Below are a few Sources which I have used in this course. We have only touched the tip of the iceberg, please continue your study on the above topics. You can for convenience start with the ones listed below.
+
+
+
+
+1) F. Rosenblatt, 1958, THE PERCEPTRON: A PROBABILISTIC MODEL FOR INFORMATION STORAGE AND ORGANIZATION IN THE BRAIN  ,Psychological Review Vol. 65, No. 6, 19S8    
+
+
+2) Josh Patterson and Adam Gibson, 2017, Deep Learning, A Practitioner’s Approach ,O’Reilly  
+
+
+3) Andy Lee, Comparing Deep Neural Networks and Traditional Vision Algorithms in Mobile Robotics 
+
+
+4)  Abhimanyu Chopra, Abhinav Prashar, Chandresh Sain, 2013, Natural Language Processing , IJTEEE
+
+5)  Zachary C. Lipton , John Berkowitz ,Charles Elkan , 2015  , A Critical Review of Recurrent Neural Networks for Sequence Learning  
+
+
+6)  Lisa Torrey and Jude Shavlik , Transfer Learning , University of Wisconsin, Madison WI, USA  
+
+
+7)   Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, Martin Riedmiller, 2013,           Playing Atari with Deep Reinforcement Learning , DeepMind Technologies   
+
+
+8)   Ian J. Goodfellow, Jean Pouget-Abadie* , Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair† , Aaron Courville, Yoshua Bengio, 2014, Generative Adversarial Nets , Departement d’informatique et de recherche op ´ erationnelle ´ Universite de Montreal     
+
+
+9)  Christian Szegedy , Sergey Ioffe , Vincent Vanhoucke , Alex Alemi , 2016 Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning , Google Inc
+
+
+10)  James Manyika, Susan Lund,  Michael Chui,  Jacques Bughin, Jonathan Woetzel,  Parul Batra,  Ryan Ko,  Saurabh Sanghvi,2017,  McKinsey Global Institute (MGI)      
+
+
+11)  Michael Chui, Vishnu Kamalnath, Brain McCarthy, 2018, An executive’s guide to AI , McKinsey Analytics  
+12) AI vs. ML vs. DL, https://skymind.ai/wiki/ai-vs-machine-learning-vs-deep-learning

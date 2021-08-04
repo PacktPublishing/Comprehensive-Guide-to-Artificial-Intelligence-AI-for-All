@@ -1,0 +1,8 @@
+**Resources and Jupyter Notebooks **
+Please download resources for all the sections* from the below link.
+
+https://drive.google.com/open?id=1O-MJb4p275-4S9PwUr3sGTOw889_WT2K
+
+The Jupyter Notebook names have been retained as-is from the lectures with some additional information, when one notebook is used in more than one lecture.
+
+* If something is missing please shoot me a mail at junaid.udemy@gmail.com
